@@ -2,5 +2,4 @@
 #Do not hard code
 #make use of dynamic variables
 #Author: Onyeka
-
-
+#This is a deployment script
